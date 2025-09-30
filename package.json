@@ -1,0 +1,23 @@
+{
+  "name": "ai-hardware-research",
+  "version": "1.0.0",
+  "description": "AI硬件市场调研报告 - 17个品类深度分析与投资机会地图",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "AI硬件",
+    "市场调研",
+    "投资分析",
+    "VitePress"
+  ],
+  "author": "fan",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.5.0",
+    "vue": "^3.5.13"
+  }
+}
