@@ -1,0 +1,35 @@
+/* 自定义样式 */
+
+/* 图表容器优化 */
+.chart-wrapper {
+  transition: all 0.3s ease;
+}
+
+.chart-wrapper:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* 表格横向滚动优化 */
+.vp-doc table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* 深色模式下的图表边框 */
+.dark .chart-wrapper {
+  border-color: var(--vp-c-divider);
+  background-color: var(--vp-c-bg-soft);
+}
+
+/* 移动端优化 */
+@media (max-width: 768px) {
+  .chart-wrapper {
+    padding: 0.5rem;
+    margin: 1rem -1rem;
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+  }
+}

@@ -37,6 +37,16 @@ features:
     details: 技术成熟度×市场规模矩阵,明确投资优先级与风险等级
 ---
 
+<script setup>
+import MarketGrowthChart from './.vitepress/components/charts/MarketGrowthChart.vue'
+</script>
+
+## 📈 市场趋势可视化
+
+<MarketGrowthChart />
+
+---
+
 ## 📋 报告概览
 
 本报告基于2025年最新市场数据,对17个AI硬件品类进行全方位调研:

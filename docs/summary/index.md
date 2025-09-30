@@ -1,5 +1,10 @@
 # AI硬件产品市场数据汇总对比表
 
+<script setup>
+import CAGRComparisonChart from '../.vitepress/components/charts/CAGRComparisonChart.vue'
+import MaturityBubbleChart from '../.vitepress/components/charts/MaturityBubbleChart.vue'
+</script>
+
 ## 说明
 
 本文档汇总17个AI硬件产品领域的关键数据指标，提供横向对比，方便团队快速决策和头脑风暴。
@@ -7,6 +12,18 @@
 **数据来源**: 各领域详细调研报告
 **报告日期**: 2025-09-30
 **币种**: 美元(USD)
+
+---
+
+## 📊 数据可视化总览
+
+### CAGR增长率对比
+
+<CAGRComparisonChart />
+
+### 投资机会矩阵分析
+
+<MaturityBubbleChart />
 
 ---
 
