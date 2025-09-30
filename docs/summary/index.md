@@ -3,6 +3,9 @@
 <script setup>
 import CAGRComparisonChart from '../.vitepress/components/charts/CAGRComparisonChart.vue'
 import MaturityBubbleChart from '../.vitepress/components/charts/MaturityBubbleChart.vue'
+import FailureSankeyChart from '../.vitepress/components/charts/FailureSankeyChart.vue'
+import PriceDistributionChart from '../.vitepress/components/charts/PriceDistributionChart.vue'
+import SuccessFailureTable from '../.vitepress/components/charts/SuccessFailureTable.vue'
 </script>
 
 ## 说明
@@ -373,6 +376,18 @@ import MaturityBubbleChart from '../.vitepress/components/charts/MaturityBubbleC
 
 ---
 
+## 📊 价格策略与成功失败分析
+
+### AI硬件价格分布与"死亡区间"
+
+<PriceDistributionChart />
+
+### 成功vs失败产品对比分析
+
+<SuccessFailureTable />
+
+---
+
 ## 表12: 各品类扩展产品对比 (2025年新增)
 
 ### 12.1 儿童教育机器人扩展产品
@@ -511,6 +526,12 @@ import MaturityBubbleChart from '../.vitepress/components/charts/MaturityBubbleC
 ---
 
 ## 表13: 失败产品教训汇总 (2025年关键警示)
+
+### 失败产品资金流向分析
+
+<FailureSankeyChart />
+
+### 失败案例详细对比表
 
 | 产品 | 融资/估值 | 失败时间 | 直接损失 | 5大失败原因 | 对2025的启示 |
 |------|----------|---------|---------|-----------|------------|
