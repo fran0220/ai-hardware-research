@@ -86,7 +86,28 @@
 
 #### 智能戒指领军者
 
-**Oura Ring (芬兰)**
+**Oura Ring Gen 3 (芬兰)**
+
+<ProductShowcase
+  product-name="Oura Ring Gen 3"
+  product-description="全球最准确的睡眠和健康监测智能戒指"
+  image-src="/images/products/oura-ring-gen3.jpg"
+  image-source="Oura Press Kit"
+  image-source-url="https://ouraring.com/press"
+  official-website="https://ouraring.com/"
+  :videos="[
+    {
+      title: 'Oura Ring Gen 3 Review (Don\'t Make the Same Mistakes I Did)',
+      url: 'https://www.youtube.com/watch?v=8hFldzprdXM',
+      duration: '8:51'
+    },
+    {
+      title: 'Oura Ring Gen 3 vs Gen 4对比',
+      url: 'https://www.youtube.com/watch?v=Vosg64ZFQDE',
+      duration: '0:00'
+    }
+  ]"
+/>
 
 **公司背景**:
 - **成立**: 2013年
@@ -136,7 +157,28 @@
 - **Gucci**: 时尚联名款(扩大受众)
 - **Natural Cycles**: 生育追踪App集成
 
-**Whoop (美国)**
+**Whoop 4.0 (美国)**
+
+<ProductShowcase
+  product-name="Whoop 4.0"
+  product-description="专业运动恢复监测腕带，硬件免费+订阅模式"
+  image-src="/images/products/whoop-4.jpg"
+  image-source="Whoop官网"
+  image-source-url="https://www.whoop.com/"
+  official-website="https://www.whoop.com/"
+  :videos="[
+    {
+      title: 'Introducing WHOOP 4.0 - The Personalized Digital Fitness and Health Coach',
+      url: 'https://www.youtube.com/watch?v=JJqgGEBmBes',
+      duration: '1:01'
+    },
+    {
+      title: 'Is Whoop 4.0 Worth The Hype?',
+      url: 'https://www.youtube.com/watch?v=K3wSkR671ic',
+      duration: '8:22'
+    }
+  ]"
+/>
 
 **公司背景**:
 - **成立**: 2012年
@@ -176,6 +218,27 @@
 
 **Samsung Galaxy Ring (韩国)**
 
+<ProductShowcase
+  product-name="Samsung Galaxy Ring"
+  product-description="三星首款智能戒指，Galaxy生态整合"
+  image-src="/images/products/samsung-galaxy-ring.jpg"
+  image-source="Samsung官网"
+  image-source-url="https://www.samsung.com/us/rings/galaxy-ring/"
+  official-website="https://www.samsung.com/us/rings/galaxy-ring/"
+  :videos="[
+    {
+      title: 'Samsung Galaxy Ring官方发布视频',
+      url: 'https://www.youtube.com/watch?v=待收集',
+      duration: '待收集'
+    },
+    {
+      title: 'Galaxy Ring健康监测功能演示',
+      url: 'https://www.youtube.com/watch?v=待收集',
+      duration: '待收集'
+    }
+  ]"
+/>
+
 **公司**: Samsung Electronics
 
 **产品**:
@@ -202,11 +265,11 @@
 
 **其他玩家**
 
-- **Amazfit**: 小米生态链,智能戒指
-- **Ultrahuman**: 印度创业公司,Ring Air
-- **RingConn**: 中国智能戒指
-- **Circular**: 法国智能戒指
-- **Movano**: 美疗级智能戒指(FDA认证中)
+- **Amazfit**: 小米生态链,智能戒指 | [官网](https://www.amazfit.com/)
+- **Ultrahuman**: 印度创业公司,Ring Air | [官网](https://www.ultrahuman.com/)
+- **RingConn**: 中国智能戒指 | [官网](https://www.ringconn.com/)
+- **Circular**: 法国智能戒指 | [官网](https://www.circular.xyz/)
+- **Movano**: 医疗级智能戒指(FDA认证中) | [官网](https://movano.com/)
 
 #### 传统可穿戴巨头
 

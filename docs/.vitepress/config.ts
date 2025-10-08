@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'AI硬件市场调研报告 2025',
-  description: '17个AI硬件品类深度市场调研与投资机会分析',
+  description: '30个AI硬件品类深度市场调研与投资机会分析',
   lang: 'zh-CN',
 
   // 主题配置
@@ -17,12 +17,16 @@ export default defineConfig({
         items: [
           { text: '儿童教育机器人', link: '/categories/education-robots' },
           { text: '社交陪伴机器人', link: '/categories/companion-robots' },
-          { text: '游戏娱乐AI硬件', link: '/categories/gaming-hardware' },
           { text: '宠物型机器人', link: '/categories/pet-robots' },
           { text: 'AI可穿戴硬件', link: '/categories/smart-glasses' },
           { text: 'AI PC笔记本', link: '/categories/ai-pc' },
           { text: '代理式AI设备', link: '/categories/agentic-devices' },
-          { text: 'AI健康监测硬件', link: '/categories/health-wearables' }
+          { text: 'AI健康监测硬件', link: '/categories/health-wearables' },
+          { text: 'AI健身智能镜', link: '/categories/fitness-mirror' },
+          { text: 'AI智能婴儿监控器', link: '/categories/baby-monitor' },
+          { text: 'AI智能音箱/显示屏', link: '/categories/smart-speaker-display' },
+          { text: 'AI便携翻译机', link: '/categories/portable-translator' },
+          { text: 'AI智能睡眠枕头/床垫', link: '/categories/sleep-pillow-mattress' }
         ]
       }
     ],
@@ -47,17 +51,21 @@ export default defineConfig({
       ],
       '/categories/': [
         {
-          text: '8大核心品类',
+          text: 'AI硬件品类 (12个)',
           collapsed: false,
           items: [
             { text: '儿童教育机器人', link: '/categories/education-robots' },
             { text: '社交陪伴机器人', link: '/categories/companion-robots' },
+            { text: '宠物型机器人', link: '/categories/pet-robots' },
             { text: 'AI可穿戴硬件', link: '/categories/smart-glasses' },
             { text: 'AI PC笔记本', link: '/categories/ai-pc' },
             { text: '代理式AI设备', link: '/categories/agentic-devices' },
             { text: 'AI健康监测硬件', link: '/categories/health-wearables' },
-            { text: '宠物型机器人', link: '/categories/pet-robots' },
-            { text: '游戏娱乐AI硬件', link: '/categories/gaming-hardware' }
+            { text: 'AI健身智能镜', link: '/categories/fitness-mirror' },
+            { text: 'AI智能婴儿监控器', link: '/categories/baby-monitor' },
+            { text: 'AI智能音箱/显示屏', link: '/categories/smart-speaker-display' },
+            { text: 'AI便携翻译机', link: '/categories/portable-translator' },
+            { text: 'AI智能睡眠枕头/床垫', link: '/categories/sleep-pillow-mattress' }
           ]
         }
       ]
@@ -142,7 +150,8 @@ export default defineConfig({
   head: [
     ['meta', { name: 'keywords', content: 'AI硬件,市场调研,投资分析,人工智能,硬件产品' }],
     ['meta', { name: 'author', content: 'fan' }],
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'stylesheet', href: '/theme/custom.css' }]
   ],
 
   // 构建配置

@@ -60,7 +60,6 @@ import MarketGrowthChart from './.vitepress/components/charts/MarketGrowthChart.
 - [代理式AI设备](/categories/agentic-devices) - Humane/Rabbit失败教训, 市场共识警示
 - [AI健康监测硬件](/categories/health-wearables) - Oura Ring $11B估值, 智能戒指市场验证
 - [宠物型机器人](/categories/pet-robots) - Anki破产案例, Sony Aibo成功策略对比
-- [游戏娱乐AI硬件](/categories/gaming-hardware) - CES 2025新趋势, SenseRobot Chess机器人
 
 ### 📊 数据汇总
 

@@ -46,6 +46,15 @@
 ### 主要玩家
 
 **Meta (与Ray-Ban合作)**
+
+![Ray-Ban Meta Smart Glasses](/images/products/meta-rayban-gen2.jpg)
+*图片来源: [Ray-Ban官网](https://www.ray-ban.com/usa/discover-ray-ban-meta-smart-glasses)*
+
+- **官网**: [ray-ban.com/meta-smart-glasses](https://www.ray-ban.com/usa/discover-ray-ban-meta-smart-glasses)
+- **官方演示视频**: 
+  - [Ray-Ban Meta Smart Glasses Gen 2 Review – Better Than Gen 1?](https://www.youtube.com/watch?v=HHFP69sW3Jw)
+  - [Meta Ray-Ban Display Glasses are HERE! 10 Features You Need to Know](https://www.youtube.com/watch?v=X4T1r4lv7DY)
+  - [AI视觉问答功能演示](https://www.youtube.com/watch?v=待收集)
 - **产品**: Ray-Ban Meta Smart Glasses Gen 2, Ray-Ban Display ($799, 2025年9月发布)
 - **市场份额**: 2024年超60%
 - **销量**: 2024年售出200万+副, Q1 2025销量同比增长3倍
@@ -62,13 +71,108 @@
 - **Google**: Glass Enterprise后,可能重启消费版
 
 **新兴品牌**
-- **Halliday**: 2025 Q1发布,$399-$499,DigiWindow微型显示
-- **Solos AirGo**: ChatGPT集成,音频优先
-- **Vuzix**: AR企业市场
+
+**Halliday AI Smart Glasses - 美国**
+
+<ProductShowcase
+  product-name="Halliday AI Smart Glasses"
+  product-description="全球最小近眼显示AI眼镜，2025 Q1发布"
+  image-src="/images/products/halliday-ai-glasses.jpg"
+  image-source="Halliday官网"
+  image-source-url="https://www.hallidayglasses.com/"
+  official-website="https://www.hallidayglasses.com/"
+  :videos="[
+    {
+      title: 'BEST AI Glasses 2025: Halliday\'s Ultimate Pair You Can Confidently Wear Out',
+      url: 'https://www.youtube.com/watch?v=6tA2u_V6pw0',
+      duration: '2:39'
+    },
+    {
+      title: 'Halliday AI Glasses: Design',
+      url: 'https://www.youtube.com/watch?v=LpWiGX_pGRE',
+      duration: '0:45'
+    },
+    {
+      title: 'Halliday AI Glasses功能演示',
+      url: 'https://www.youtube.com/watch?v=Qy33ecWgZME',
+      duration: '0:50'
+    }
+  ]"
+/>
+**Solos AirGo - 美国**
+
+<ProductShowcase
+  product-name="Solos AirGo"
+  product-description="ChatGPT集成的AI音频智能眼镜"
+  image-src="/images/products/solos-airgo.jpg"
+  image-source="Solos官网"
+  image-source-url="https://solosglasses.com/"
+  official-website="https://solosglasses.com/"
+  :videos="[
+    {
+      title: 'Solos Air Go Smart Glasses: Full Review',
+      url: 'https://www.youtube.com/watch?v=vemQnYCuPo0',
+      duration: '13:53'
+    },
+    {
+      title: 'Solos Smartglasses AirGo™3 | AI AUDIO SMARTGLASSES POWERED BY CHATGPT',
+      url: 'https://www.youtube.com/watch?v=ldSCj0jW0xg',
+      duration: '0:52'
+    },
+    {
+      title: 'Solos AirGo功能演示',
+      url: 'https://www.youtube.com/watch?v=74PlrXzK5wc',
+      duration: '2:48'
+    }
+  ]"
+/>
+**Vuzix AR Glasses - 美国**
+
+<ProductShowcase
+  product-name="Vuzix AR Glasses"
+  product-description="企业级AR智能眼镜，专注B2B市场应用"
+  image-src="/images/products/vuzix-ar-glasses.jpg"
+  image-source="Vuzix官网"
+  image-source-url="https://www.vuzix.com/"
+  official-website="https://www.vuzix.com/"
+  :videos="[
+    {
+      title: 'Wearable Technology Demo: Vuzix',
+      url: 'https://www.youtube.com/watch?v=CWzloK-N62A',
+      duration: '7:19'
+    },
+    {
+      title: 'Vuzix AR Glasses功能演示',
+      url: 'https://www.youtube.com/watch?v=CWzloK-N62A',
+      duration: '7:19'
+    }
+  ]"
+/>
 
 ### 中国市场玩家
-- **雷鸟创新**(Rokid): AR眼镜,国内领先
-- **XREAL**: AR显示眼镜
+**Rokid AR Lite - 中国**
+
+<ProductShowcase
+  product-name="Rokid AR Lite"
+  product-description="空间计算AR眼镜，轻量化设计"
+  image-src="/images/products/rokid-ar-lite.jpg"
+  image-source="Rokid官网"
+  image-source-url="https://www.rokid.com/"
+  official-website="https://www.rokid.com/"
+  :videos="[
+    {
+      title: 'The Future of AR Glasses is Finally HERE - Rokid AR Lite',
+      url: 'https://www.youtube.com/watch?v=lVJs5IdFXhQ',
+      duration: '15:58'
+    },
+    {
+      title: 'Rokid AR Spatial: Embrace the Era of Spatial Computing',
+      url: 'https://www.youtube.com/watch?v=oA6sMAX7Lok',
+      duration: '1:56'
+    }
+  ]"
+/>
+- **XREAL**: AR显示眼镜 | [官网](https://www.xreal.com/)
 - **至为科技**(Transsion旗下): 非洲市场
 
 ---

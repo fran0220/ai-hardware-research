@@ -1,5 +1,16 @@
 # AI PC/笔记本市场调研报告
 
+> ⚠️ **调研范围说明**: 本品类主要涉及芯片厂商(Intel/AMD/Qualcomm)和OEM整机厂商(ASUS/HP/Dell),**不符合本次"AI消费硬件产品"调研范围**。
+>
+> **原因**:
+> - 芯片厂商(Intel/AMD/Qualcomm)不直接面向终端消费者销售独立硬件产品
+> - OEM厂商(ASUS/HP/Dell)是电脑品牌而非AI硬件专有品牌
+> - 消费者购买的是"AI PC整机",而非特定AI硬件组件
+>
+> **本报告保留仅供参考**,不列入最终品类统计。
+
+---
+
 ## 执行摘要
 
 ### 市场规模与增长
@@ -105,6 +116,8 @@ S/LG领军** - 台湾、韩国厂商在AI PC创新领先
 
 **Intel**
 
+**官网**: [intel.com/ai-pc](https://www.intel.com/content/www/us/en/products/docs/processors/core-ultra/ai-pc.html)
+
 - **产品线**:
   - **Core Ultra (Series 1, Meteor Lake)**: 2023年12月,首款集成NPU
   - **Core Ultra (Series 2, Lunar Lake)**: 2024年9月,第二代
@@ -129,6 +142,8 @@ S/LG领军** - 台湾、韩国厂商在AI PC创新领先
 
 **AMD**
 
+**官网**: [amd.com/ryzen-ai](https://www.amd.com/en/products/processors/consumer/ryzen-ai.html)
+
 - **产品线**:
   - **Ryzen AI 300 (Strix Point)**: 2024年7月发布
     - NPU: 50 TOPS
@@ -152,6 +167,8 @@ S/LG领军** - 台湾、韩国厂商在AI PC创新领先
   - 性价比
 
 **Qualcomm**
+
+**官网**: [qualcomm.com/snapdragon-x-elite](https://www.qualcomm.com/products/mobile-computing/snapdragon-x-elite)
 
 - **产品线**:
   - **Snapdragon X Elite**: 2024年5月,首批Copilot+ PC

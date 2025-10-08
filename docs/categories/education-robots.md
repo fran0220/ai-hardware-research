@@ -50,6 +50,32 @@
 #### 主要玩家
 
 **Miko (Emotix) - 印度**
+
+<ProductShowcase
+  product-name="Miko 3"
+  product-description="AI个性化学习机器人，专为5-12岁儿童设计"
+  image-src="/images/products/miko-3.jpg"
+  image-source="Miko Press Kit"
+  image-source-url="https://miko.ai/pages/press"
+  official-website="https://miko.ai/"
+  :videos="[
+    {
+      title: 'Meet Miko 3 : Ridiculously Smart. Seriously Fun.',
+      url: 'https://www.youtube.com/watch?v=CU_LNy2Osv8',
+      duration: '0:31'
+    },
+    {
+      title: 'Meet Miko 3 | Bring Home the World\'s Coolest Robot for Kids This Holiday Season',
+      url: 'https://www.youtube.com/watch?v=-7m1mGcS8PA',
+      duration: '1:45'
+    },
+    {
+      title: 'Miko 3 Robot Review by James Murden | Tech Review',
+      url: 'https://www.youtube.com/watch?v=z_bR3WcuaYQ',
+      duration: '5:35'
+    }
+  ]"
+/>
 - **融资情况**:
   - 总融资: $91.3M (18轮)
   - 最新融资: Series D (2024年10月) $15.8M
@@ -61,15 +87,117 @@
 - **创始人**: IIT Bombay校友 (2015年成立)
 
 **学而思学习机 - 中国 (好未来)**
+
+![学而思学习机](/images/products/xueersi-learning-machine.jpg)
+*图片来源: [好未来官网](https://www.100tal.com/)*
+
 - **背景**: 中国教育巨头
 - **市场**: 主要面向中国K12市场
 - **优势**: 庞大的教育内容库，与学而思课程体系整合
+- **官方演示视频**: 
+  - [学而思学习机产品介绍](https://www.youtube.com/watch?v=待收集)
+  - [AI作业批改功能演示](https://www.youtube.com/watch?v=待收集)
 
 #### 其他关键玩家
-- **Wonder Workshop (Dash & Dot)** - 美国STEAM教育机器人
-- **LEGO Education** - 乐高教育机器人系列
-- **Makeblock (mBot)** - 中国编程教育机器人
-- **Sphero** - 美国STEM教育机器人球
+
+**Wonder Workshop (Dash & Dot) - 美国**
+
+<ProductShowcase
+  product-name="Wonder Workshop Dash"
+  product-description="STEAM编程教育机器人，专为6-12岁儿童设计"
+  image-src="/images/products/wonder-workshop-dash.jpg"
+  image-source="Wonder Workshop官网"
+  image-source-url="https://www.makewonder.com/"
+  official-website="https://www.makewonder.com/"
+  :videos="[
+    {
+      title: 'Wonder Workshop Dash Robot Demo',
+      url: 'https://www.youtube.com/watch?v=630qR1Ck6NY',
+      duration: '2:21'
+    },
+    {
+      title: 'Learning Robot | Dash | Wonder Workshop | Review',
+      url: 'https://www.youtube.com/watch?v=ausbM_YF6v4',
+      duration: '8:17'
+    }
+  ]"
+/>
+**LEGO Education SPIKE Prime - 丹麦**
+
+<ProductShowcase
+  product-name="LEGO Education SPIKE Prime"
+  product-description="中学生STEAM教育套件，结合乐高积木与Python编程"
+  image-src="/images/products/lego-spike-prime.jpg"
+  image-source="LEGO Education官网"
+  image-source-url="https://education.lego.com/"
+  official-website="https://education.lego.com/"
+  :videos="[
+    {
+      title: 'Introducing LEGO Education SPIKE Prime',
+      url: 'https://www.youtube.com/watch?v=SXwX0BEKxXE',
+      duration: '0:58'
+    },
+    {
+      title: 'LEGO Education SPIKE PRIME | Hands-on Demo and App Walkthrough',
+      url: 'https://www.youtube.com/watch?v=FeITdfrgFvk',
+      duration: '1:01:48'
+    },
+    {
+      title: 'SPIKE Prime Tutorial 1.0: SPIKE Kit Overview',
+      url: 'https://www.youtube.com/watch?v=wM3EifjqSZA',
+      duration: '2:21'
+    }
+  ]"
+/>
+**Makeblock mBot - 中国**
+
+<ProductShowcase
+  product-name="Makeblock mBot"
+  product-description="编程教育入门机器人，专为8-12岁儿童设计"
+  image-src="/images/products/makeblock-mbot.jpg"
+  image-source="Makeblock官网"
+  image-source-url="https://www.makeblock.com/"
+  official-website="https://www.makeblock.com/"
+  :videos="[
+    {
+      title: 'Mbot Robot Demo - Using Makeblock app Controls',
+      url: 'https://www.youtube.com/watch?v=RfGJWxmn9mU',
+      duration: '3:05'
+    },
+    {
+      title: 'mBot Robot Kit - One Robot Per Child',
+      url: 'https://www.youtube.com/watch?v=-hQtdYd5i-Y',
+      duration: '1:26'
+    }
+  ]"
+/>
+**Sphero BOLT+ - 美国**
+
+<ProductShowcase
+  product-name="Sphero BOLT+"
+  product-description="球形编程机器人，专为6-12岁儿童设计"
+  image-src="/images/products/sphero-bolt.jpg"
+  image-source="Sphero官网"
+  image-source-url="https://sphero.com/"
+  official-website="https://sphero.com/"
+  :videos="[
+    {
+      title: 'DEMO AND REVIEW OF SPHERO BOLT APP CONTROLLED SMART ROBOT',
+      url: 'https://www.youtube.com/watch?v=Fs_Ez9AUcB8',
+      duration: '24:59'
+    },
+    {
+      title: 'This is Sphero BOLT',
+      url: 'https://www.youtube.com/watch?v=ZluyTRFn3OY',
+      duration: '2:16'
+    },
+    {
+      title: 'Welcome to BOLT, the most popular programmable robot for kids',
+      url: 'https://www.youtube.com/watch?v=b2Ffu9iG1YQ',
+      duration: '3:28'
+    }
+  ]"
+/>
 
 ### 3. 技术趋势分析
 

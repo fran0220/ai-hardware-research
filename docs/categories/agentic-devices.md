@@ -95,7 +95,33 @@
 
 #### 失败的硬件先驱
 
-**Humane AI Pin 2.0 (Humane, 美国)**
+**Humane AI Pin (Humane, 美国)**
+
+<ProductShowcase
+  product-name="Humane AI Pin"
+  product-description="AI驱动的无屏幕智能设备，投影交互"
+  image-src="/images/products/humane-ai-pin.jpg"
+  image-source="Humane官网"
+  image-source-url="https://humane.com/"
+  official-website="https://humane.com/"
+  :videos="[
+    {
+      title: 'Humane AI Pin官方发布视频',
+      url: 'https://www.youtube.com/watch?v=待收集',
+      duration: '待收集'
+    },
+    {
+      title: 'Humane AI Pin投影功能演示',
+      url: 'https://www.youtube.com/watch?v=待收集',
+      duration: '待收集'
+    },
+    {
+      title: 'Humane AI Pin失败案例分析',
+      url: 'https://www.youtube.com/watch?v=待收集',
+      duration: '待收集'
+    }
+  ]"
+/>
 
 **公司背景**:
 - **创始人**: Imran Chaudhri, Bethany Bongiorno (前Apple设计师)
@@ -125,6 +151,32 @@
 5. **市场时机**: AI Agent技术不成熟
 
 **Rabbit R1 (Rabbit, 美国)**
+
+<ProductShowcase
+  product-name="Rabbit R1"
+  product-description="Large Action Model驱动的AI助手设备"
+  image-src="/images/products/rabbit-r1.jpg"
+  image-source="Rabbit官网"
+  image-source-url="https://www.rabbit.tech/"
+  official-website="https://www.rabbit.tech/"
+  :videos="[
+    {
+      title: 'Rabbit R1官方发布视频',
+      url: 'https://www.youtube.com/watch?v=待收集',
+      duration: '待收集'
+    },
+    {
+      title: 'Rabbit R1 LAM功能演示',
+      url: 'https://www.youtube.com/watch?v=待收集',
+      duration: '待收集'
+    },
+    {
+      title: 'Rabbit R1 CES 2024展示',
+      url: 'https://www.youtube.com/watch?v=待收集',
+      duration: '待收集'
+    }
+  ]"
+/>
 
 **公司背景**:
 - **创始人**: Jesse Lyu

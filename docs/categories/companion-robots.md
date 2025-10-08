@@ -63,7 +63,33 @@
 
 #### 主要玩家
 
-**ElliQ (Intuition Robotics) - 以色列**
+**ElliQ 3.0 (Intuition Robotics) - 以色列**
+
+<ProductShowcase
+  product-name="ElliQ 3.0"
+  product-description="AI社交陪伴机器人，专为老年人设计，主动关怀"
+  image-src="/images/products/elliq-3.jpg"
+  image-source="ElliQ官网"
+  image-source-url="https://elliq.com/"
+  official-website="https://elliq.com/"
+  :videos="[
+    {
+      title: 'ElliQ 3.0官方介绍视频',
+      url: 'https://www.youtube.com/watch?v=待收集',
+      duration: '待收集'
+    },
+    {
+      title: 'ElliQ老年人使用场景演示',
+      url: 'https://www.youtube.com/watch?v=待收集',
+      duration: '待收集'
+    },
+    {
+      title: 'ElliQ CES 2024展示',
+      url: 'https://www.youtube.com/watch?v=待收集',
+      duration: '待收集'
+    }
+  ]"
+/>
 - **融资情况**:
   - Series C: 2024年 $25M
     - 领投: Woven Capital (Toyota)
@@ -81,11 +107,28 @@
 - **特点**: 主动聊天、日常互动
 - **市场**: 美国中老年市场
 
-**Lovot - 日本 (Groove X)**
-- **产品**: 类宠物情感陪伴机器人
-- **特点**: 通过可爱外观和行为建立情感连接
-- **价格**: 约$3,000 (双机套装)
-- **市场**: 日本、美国
+**Lovot (Groove X) - 日本**
+
+<ProductShowcase
+  product-name="Lovot"
+  product-description="类宠物情感陪伴机器人，通过可爱外观建立情感连接"
+  image-src="/images/products/lovot.jpg"
+  image-source="Lovot官网"
+  image-source-url="https://lovot.life/"
+  official-website="https://lovot.life/"
+  :videos="[
+    {
+      title: 'Lovot情感互动演示',
+      url: 'https://www.youtube.com/watch?v=待收集',
+      duration: '待收集'
+    },
+    {
+      title: 'Lovot产品介绍视频',
+      url: 'https://www.youtube.com/watch?v=待收集',
+      duration: '待收集'
+    }
+  ]"
+/>
 
 **Hyodol - 韩国**
 - **技术**: ChatGPT集成
@@ -93,9 +136,9 @@
 - **市场**: 韩国老年护理市场
 
 #### 新兴玩家
-- **Tombot** (美国): 仿真宠物狗机器人,针对痴呆症患者
-- **Paro** (日本): 海豹形态治疗机器人,FDA认证医疗设备
-- **Companion** (美国): AI聊天伴侣App,计划推出硬件
+- **Tombot** (美国): 仿真宠物狗机器人,针对痴呆症患者 | [官网](https://tombot.com/)
+- **Paro** (日本): 海豹形态治疗机器人,FDA认证医疗设备 | [官网](https://www.parorobots.com/)
+- **Companion** (美国): AI聊天伴侣App,计划推出硬件 | [官网](https://companion.com/)
 
 ### 3. 技术趋势分析
 

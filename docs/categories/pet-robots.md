@@ -88,6 +88,12 @@
 #### 主要玩家
 
 **Sony Aibo (日本)**
+
+<!-- 图片占位: 官方产品图 -->
+<!-- ![Sony Aibo](../../public/images/products/sony-aibo.jpg) -->
+<!-- *图片来源: [Sony Aibo官网](https://us.aibo.com/)* -->
+
+- **官网**: [aibo.sony.jp](https://aibo.sony.jp/) | [美国官网](https://us.aibo.com/)
 - **公司**: Sony Corporation
 - **产品线**:
   - Aibo ERS-1000 (2018年重启)
@@ -112,6 +118,12 @@
   - 长期支持(3年云服务)
 
 **KEYi Tech Loona (中国)**
+
+<!-- 图片占位: 官方产品图 -->
+<!-- ![Loona Petbot](../../public/images/products/loona-petbot.jpg) -->
+<!-- *图片来源: [Loona官网](https://loona.ai/)* -->
+
+- **官网**: [loona.ai](https://loona.ai/)
 - **公司**: KEYi Tech (深圳)
 - **产品**: Loona Petbot
 - **价格**: $499 (原价$527.99,折扣后$499.90)
@@ -150,6 +162,7 @@
 - **用途**: 巡检、搜救,非家庭宠物
 
 **Unitree (中国)**
+- **官网**: [unitree.com](https://www.unitree.com/)
 - **产品**: Go2, B2等
 - **价格**: $1,600-$3,000
 - **定位**: 开发者+消费者边界
